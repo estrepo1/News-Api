@@ -1,4 +1,13 @@
 
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone 
+   https://github.com/estrepo1/News-Api.git
+
+   We need to install npm Node modules
 
 In the project directory, you can run:
 
