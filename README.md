@@ -5,9 +5,12 @@ Step 1. Clone the repository:
  in the terminal // 
    git clone https://github.com/estrepo1/News-Api.git
 
-  Step 2 => ### We need to install npm Node modules
+   ########
+PRocess to run news app
+ Step 2 => ### We need to install npm Node modules
 
 In the project directory, you can run:
+
  Step 3 => ### ` cd news`
 
 Step 4 =>### `npm start`
@@ -19,8 +22,6 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-########
-PRocess to run news app
 
 # React News App
 
