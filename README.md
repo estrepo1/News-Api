@@ -1,17 +1,16 @@
 
 ### Installation
 
-1. Clone the repository:
+Step 1. Clone the repository:
+ in the terminal // 
+   git clone https://github.com/estrepo1/News-Api.git
 
-   ```bash
-   git clone 
-   https://github.com/estrepo1/News-Api.git
-
-   We need to install npm Node modules
+  Step 2 => ### We need to install npm Node modules
 
 In the project directory, you can run:
+ Step 3 => ### ` cd news`
 
-### `npm start`
+Step 4 =>### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -49,12 +48,4 @@ A simple and intuitive news application built with React.js, fetching the latest
 
 Make sure you have Node.js and npm installed on your machine. You can download it from [Node.js official website](https://nodejs.org/).
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone 
-   https://github.com/estrepo1/News-Api.git
-
-   We need to install npm Node modules
